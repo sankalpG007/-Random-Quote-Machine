@@ -7,6 +7,11 @@ const quoteData =[
   {text:'"Get busy living or get busy dying"',author: "Stephen king"},
    {text:'"you only lives once,but if you do it right,once is enough"',author: "Mae west"},
    {text:'"Many of life failures are people who did not realize how close they were to success when they gave up"',author: "Thomas Edison"},
+    {text:'"You can always edit a bad page. You cant edit a blank page"',author: "Jodi Picoult"},
+   {text:'"You cant wait for inspiration. You have to go after it with a club."',author: "Jack London"},
+   {text:'"I have never started a poem yet whose end I knew. Writing a poem is discovering."',author: "Robert Frost"},
+   {text:'"If there is a book that you want to read, but it hasnt been written yet, then you must write it."',author: "Toni Morrison"},
+   {text:'"I get a lot of letters from people. They say, "I want to be a writer. What should I do?" I tell them to stop writing to me and get on with it."',author: "Ruth Rendell"},
 ]
 
 const QuoteBox = ({ quote,handleNewQuote}) => (
